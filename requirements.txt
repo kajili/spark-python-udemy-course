@@ -1,7 +1,7 @@
 findspark==1.3.0
 ipywidgets==7.5.1
 jupyter-console==6.1.0
-jupyterlab==1.2.6
+jupyterlab==1.2.21
 pip-chill==0.1.8
 py4j==0.10.9
 qtconsole==4.6.0
